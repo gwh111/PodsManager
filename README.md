@@ -53,6 +53,7 @@ Pods Manager
 Error：*fatal: could not read Username for 'https://github.com': Device not configured*  
 使用GitHub作为仓库时出现该错误可以打开终端手动推送一次 'git push origin master'，然后输入用户名密码。  
 或百度该错误找到.git配置文件配置账户
+
 Error：*/bin/bash: /usr/local/bin/pod: No such file or directory*
 sudo gem install -n /usr/local/bin cocoapods
 
