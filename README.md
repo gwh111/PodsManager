@@ -1,7 +1,15 @@
 # PodsManager
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT "Feel free to contribute.")
+
 Pods Manager beta版
-视频教程[https://www.bilibili.com/video/BV1pE411x7mJ](https://www.bilibili.com/video/BV1pE411x7mJ)
+视频教程[https://www.bilibili.com/video/BV1pE411x7mJ](https://www.bilibili.com/video/BV1pE411x7mJ)  
+PodsManager Tutorials  
+[https://youtu.be/l9wxOOsLaLM](https://youtu.be/l9wxOOsLaLM)
+
+<img width=800px src="https://github.com/gwh111/PodsManager/blob/master/PMVideo.002.jpeg?raw=true" >  
+<img width=800px src="https://github.com/gwh111/PodsManager/blob/master/PMVideo.003.jpeg?raw=true" >  
+<img width=800px src="https://github.com/gwh111/PodsManager/blob/master/PMVideo.004.jpeg?raw=true" >
 
 如无法打开，解决步骤
 1、系统偏好设置-安全-允许任何来源。
